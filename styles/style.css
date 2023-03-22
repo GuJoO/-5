@@ -1,0 +1,281 @@
+a{
+	color:#274C5B ;
+	font-size: 25px;
+	text-decoration: none;
+}
+.logo{
+	display: inline-block;
+	margin-bottom: 80px;
+	margin: 69px 0 0 162px ;
+	font-family: 'Roboto';
+}
+.organ{
+	display: inline-block;
+	font-size: 38px;
+	color: #274C5B;
+	vertical-align: top;
+}
+.margion{
+	display: inline-block;
+	margin-left: 40px;
+}
+.navigation{
+	margin-left: 155px;
+	display: inline-block;
+	margin-bottom: 80px;
+}
+.section-bg{
+    background-color: #F9F8F8;
+}
+.conteiner{
+    width: 1400px;
+    margin: 0 auto;
+
+}
+.why-choose{
+    font-size: 36px;
+	color: #7EB693 ;
+	font-family: 'Yellowtail', cursive;
+}
+.left-block{
+    width: 678px;
+  
+    display: inline-block;
+    vertical-align: top;
+}   
+.right-block{
+    width: 678px;
+    display: inline-block;
+    vertical-align: top;
+}
+.title1{
+    font-size: 50px;
+    width: 524px;
+    margin-bottom: 25px
+    ;
+}
+.qartuli{
+    font-family: 'BPG Irubaqidze';
+    font-size: 18px;
+    margin-bottom: 12px;
+
+}
+.grey-block{
+    height: 81px;
+    width: 339px;
+    background-color: #ECECEC;
+    padding: 29px 91px 29px 53px;
+    margin-bottom: 12px;
+}
+.grey-block-info{
+    display: inline-block;
+    font-size: 18px;
+    vertical-align: middle;
+    
+    
+}
+.gray-img{
+    vertical-align: middle;
+    display: inline-block;
+}
+.section-discr2{
+    margin-left: 60px;
+    font-size: 18px;
+    margin-bottom: 12px;
+    font-family: "BPG Irubaqidze", sans-serif;
+}
+.conteiner-wraper{
+    width: 1118px;
+    margin: 0 auto;
+}
+.block{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    display: inline-block;
+    padding: 29px 0 0 22px;
+}
+.active-block2{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.active-block3{
+    margin-right: 30px;
+}
+.block-text{
+    text-align: center;
+    margin-top: 18px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.title-box{
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.conteiner2{
+    width: 1400px;
+    margin: 0 auto;
+}
+.img-org{
+    margin-bottom: 45px;
+}
+.title-org{
+    font-size: 50px;
+    margin-left: 300px;
+    margin-bottom: 28px;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.paragraf{
+    font-size: 18px;
+    margin-left: 300px;
+    width: 936px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.organic-store{
+    width: 936px;
+    height: 180px;
+    width: 936px;
+    
+}
+.block-img-left{
+    margin-top: 17.5px;
+    margin-left: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.block-text-right{
+    width: 537px;
+    padding: 63px 45px 63px 45px;
+    background-color: #F9F8F8;
+    display: inline-block;
+    
+}
+.hand{
+    width: 376px;
+    height: 337px;
+}
+.organic1{
+    font-size: 25px;
+    color: #274C5B;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.par2{
+    font-size: 18px;
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 7px;
+}
+.special-left{
+    width: 537px;
+    padding: 63px 45px 63px 45px;
+    background-color: #F9F8F8;
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.special-right{
+    display: inline-block;
+    vertical-align: middle;
+}
+.title-spec{
+    font-size: 25px;
+    color: #274C5B;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.paragraf-spec{
+    font-size: 18px;
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 7px;
+}
+.title-finish{
+    font-size: 35px;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 492px; 
+}
+.par-finish{
+    font-size: 18px;
+    margin-left: 492px;
+    width: 936px;
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+
+}
+.section-block{
+    width: 1400px;
+    margin: 0 auto;
+    margin-top: 86px;
+}
+.img-orange{
+    width: 1400px;
+    margin-top: 80px;
+}
+.contact{
+    padding: 70px 0 0 250px;
+    display: inline-block;
+}
+.li-1{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #525C60;
+}
+.li-2{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.contact-us{
+    font-size: 30px;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+}
+.organic-text{
+    width: 543px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 60px 0 0 142px;
+}
+.last-logo{
+    padding-left: 170px;
+    vertical-align: middle;
+    margin-right: 8.21;
+}
+.paragraf-org{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.text-logo{
+    font-size: 38px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+}
+.pages3{
+    display: inline-block;
+    vertical-align: top;
+    margin: 70px 0 0 143px;
+}
+.h-3{
+    font-size: 35px;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+}
+.li-3{
+    font-size: 18px;
+    margin-top: 15px;
+    color:#525C60 ;
+}
